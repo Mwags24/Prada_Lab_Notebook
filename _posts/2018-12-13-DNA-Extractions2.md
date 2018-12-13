@@ -35,3 +35,5 @@ centrifuged for 1 minute at 8000 rpm
 labeled as E1, E5, E18, E20
 placed in box labeled "DNA Extractons Genus: Eunicia"
 placed box in -20° standup freezer
+
+* This protocol modified from DNeasy Blood and Tissue Handbook
