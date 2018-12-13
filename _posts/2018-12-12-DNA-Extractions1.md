@@ -25,3 +25,5 @@ added 20 microliters of Protinase k to each
 
 samples were placed in Thermomixer set to 56°C and 600rpm
 left to mix overnight
+
+* This protocol modified from DNeasy Blood and Tissue Handbook
