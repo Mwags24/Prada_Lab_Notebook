@@ -52,6 +52,8 @@ placed in box labeled "DNA Extractons Genus: Eunicia"
 placed box in -20° standup freezer
 
 ### Additional Notes
+This completed the full set of extractions (there is now an extraction of each eunicia sample)
+
 E29 was very clear after dissolving the coral fragment
 50 microliters extra AE buffer was added to E29
 
