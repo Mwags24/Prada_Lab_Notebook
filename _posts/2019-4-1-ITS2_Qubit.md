@@ -28,5 +28,5 @@ the samples were run through the Qubit and the nanograms of DNA per microleter w
 |E17|76.4 ng/μl|75.2 ng/μl|
 
 
-##Notes
+### Notes
 all of these amounts of DNA are relativly good and should show up in PCRs
