@@ -5,6 +5,8 @@ title: "DNA Extractions 5/29/19"
 
 ## E8 E9 E10 E16 E17 E19 E20 E21 E24 E28 E30 E32 P14 P15  
 
+* These are the samples that after multiple attempts have not shown up in any ITS2 PCR's 
+
 ### Procedure
 
 added 180 microliters ATL to 14 1.5ml eppendorf tubes
