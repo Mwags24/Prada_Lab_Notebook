@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "DNA Extractions 5/21/19"
+title: "DNA Extractions 5/29/19"
 ---
 
-## P2, P7  
+## E8 E9 E10 E16 E17 E19 E20 E21 E24 E28 E30 E32 P14 P15  
 
 ### Procedure
 
-added 180 microliters ATL to two 1.5ml eppendorf tubes
-Labeled the tubes P2 and P7
+added 180 microliters ATL to 14 1.5ml eppendorf tubes
+Labeled the tubes acoarding to the code 
 
-Took original coral samples of sample P2 and P7 from -20° freezer 
+Took original coral samples of samples from -20° freezer 
 
 For each coral:
 took coral out of tube 
@@ -47,8 +47,8 @@ added 20 microliters of buffer AE (warmed to 56°C)
 incubated for 5 minutes at room temperature
 centrifuged for 1 minute at 8000 rpm
 
-labeled as P2 and P7
-placed in box labeled "ALiquoted DNA smaples"
-placed box in -20° standup freezer
+P14 and P15 were placed in box labeled "ALiquoted DNA smaples"
+The Eunicia samples were placed in a box "Eunicia DNA extractions"
+both boxes were put in the -20° standup freezer
 
 * This protocol modified from DNeasy Blood and Tissue Handbook
