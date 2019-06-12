@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Learning DNA Extractions first day"
+categories: Extractions
 ---
 
 ## Learning DNA extractions (1/2)

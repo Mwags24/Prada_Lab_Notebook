@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DNA Extractions 5/21/19"
+categories: Extractions
 ---
 
 ## P2, P7  
