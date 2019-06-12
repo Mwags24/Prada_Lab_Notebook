@@ -2,6 +2,7 @@
 layout: post
 title: "DNA Extractions 1/25/19"
 categories: Extractions
+tags: E2 E3 E4
 ---
 
 ## E2, E3, E4 

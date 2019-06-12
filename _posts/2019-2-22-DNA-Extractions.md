@@ -2,6 +2,7 @@
 layout: post
 title: "DNA Extractions 2/22/19"
 categories: Extractions
+tags: E26 E27 E28 E29 E30 E31 E32 E33
 ---
 
 ## E26, E27, E28, E29, E30, E31, E32, E33

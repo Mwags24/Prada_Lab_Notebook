@@ -2,6 +2,7 @@
 layout: post
 title: "Qubit 4/1/19"
 categories: Qubit
+tags: E8 E9 E10 E11 E12 E15 E16 E17
 ---
 
 ## E8 E9 E10 E11 E12 E15 E16 E17

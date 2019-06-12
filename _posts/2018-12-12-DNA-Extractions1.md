@@ -2,6 +2,7 @@
 layout: post
 title: "Learning DNA Extractions first day"
 categories: Extractions
+tags: E1 E5 E18 E20
 ---
 
 ## Learning DNA extractions (1/2)
