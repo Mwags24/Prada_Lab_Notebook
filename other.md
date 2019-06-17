@@ -5,6 +5,7 @@ permalink: /other/
 ---
 
 ### Papers
+## scientific papers related to this research
 
 <https://www.ncbi.nlm.nih.gov/pubmed/24863571>
 <http://www.personal.psu.edu/tcl3/PDF/Thornhill_etal.2014_evo.12270.pdf>
@@ -12,7 +13,7 @@ permalink: /other/
 
 
 ### Lectures
-
+## Lectures related to this research
 
 <https://www.ibiology.org/ecology/coral-reefs/#part-1>
 <https://www.ibiology.org/ecology/coral-reefs/#part-2>
