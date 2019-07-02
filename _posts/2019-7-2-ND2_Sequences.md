@@ -5,7 +5,7 @@ categories: Phylogenetics
 tags: 
 ---
 
-These are the ND2 sequences for Eunicea, Plexaurella, and Plexura species pulled from the [NCBI GeneBank]({% https://www.ncbi.nlm.nih.gov %})
+These are the ND2 sequences for Eunicea, Plexaurella, and Plexura species pulled from the [NCBI GeneBank]( www.ncbi.nlm.nih.gov )
 
 KP777815.1 Eunicea mammosa
 AY126379.1 Eunicea fusca
