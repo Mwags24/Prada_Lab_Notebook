@@ -10,22 +10,25 @@ tags:
 These are the ND2 sequences for Eunicea, Plexaurella, and Plexura species pulled from the 
 [NCBI GeneBank](www.ncbi.nlm.nih.gov)
 
-KP777815.1 Eunicea mammosa
-AY126379.1 Eunicea fusca
-KP777810.1 Eunicea laciniata
-AY684593.1 Eunicea clavigera
-KP777816.1 Eunicea calyculata 
-KP777813.1 Eunicea tayrona
-AY684592.1 Eunicea asperula
-AY126378.1 Eunicea tourneforti
-AY126376.1 Eunicea knighti
-AY684587.1 Eunicea laxispica
-AY684588.1 Eunicea succinea
-KP777812.1 Eunicea pallida
-AY126382.1 Plexaura homomalla
-AY126385.1 Plexaurella grisea
-AY126384.1 Plexaura kuna
-AY684590.1 Plexaura flexuosa
+| Code | Species |
+|---------|-------------------|
+|KP777815.1 |Eunicea mammosa |
+|AY126379.1 |Eunicea fusca |
+|KP777810.1 |Eunicea laciniata | 
+|AY684593.1 |Eunicea clavigera |
+|KP777816.1 |Eunicea calyculata |
+|KP777813.1 |Eunicea tayrona |
+|AY684592.1 |Eunicea asperula |
+|AY126378.1 |Eunicea tourneforti |
+|AY126376.1 |Eunicea knighti |
+|AY684587.1 |Eunicea laxispica |
+|AY684588.1 |Eunicea succinea |
+|KP777812.1 |Eunicea pallida |
+|AY126382.1 |Plexaura homomalla |
+|AY126385.1 |Plexaurella grisea |
+|AY126384.1 |Plexaura kuna |
+|AY684590.1 |Plexaura flexuosa |
+
 
 
 
