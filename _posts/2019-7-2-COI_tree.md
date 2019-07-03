@@ -23,7 +23,7 @@ Then using the website Cipres <https://www.phylo.org> the aligned sequences were
 
 This produced the following code
 
-(Eunicea tourneforti:0.00000100000050002909,(Eunicea tourneforti:0.00000100000050002909,(((Eunicea succinea:0.00000100000050002909,Eunicea clavigera:0.00000100000050002909):0.00000100000050002909,Eunicea calyculata:0.00000100000050002909):0.00000100000050002909,(((((Eunicea fusca:0.00000100000050002909,Eunicea calyculata:0.00000100000050002909):0.00000100000050002909,Eunicea fusca:0.00000100000050002909):0.00000100000050002909,Eunicea fusca:0.00000100000050002909):0.00000100000050002909,(((Eunicea flexuosa:0.00000100000050002909,(Eunicea flexuosa:0.00000100000050002909,Eunicea flexuosa:0.00000100000050002909):0.00000100000050002909):0.00000100000050002909,(Eunicea flexuosa:0.00000100000050002909,(Eunicea laxispica:0.00000100000050002909,Eunicea flexuosa:0.00000100000050002909):0.00000100000050002909):0.00000100000050002909):0.00152392333990904855,Eunicea tourneforti:0.00152392309122098275):0.00000100000050002909):0.00152392162176867379,Eunicea tourneforti:0.00152378975989975727):0.00000100000050002909):0.00000100000050002909):0.00000100000050002909,Eunicea calyculata:0.00000100000050002909):0.0;
+(Eunicea tourneforti(Eunicea tourneforti(((Eunicea succinea,Eunicea clavigera),Eunicea calyculata),(((((Eunicea fusca,Eunicea calyculata),Eunicea fusca),Eunicea fusca),(((Eunicea flexuosa,(Eunicea flexuosa,Eunicea flexuosa)),(Eunicea flexuosa,(Eunicea laxispica,Eunicea flexuosa))),Eunicea tourneforti)),Eunicea tourneforti))),Eunicea calyculata);
 
 the names were then adjusted using the following codes
 
