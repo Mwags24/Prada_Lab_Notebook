@@ -54,7 +54,7 @@ finally using the site ITOL <https://itol.embl.de> a tree was made:
 
 This tree can be shown in other ways as well
 
-Circular:
+ignoring branch length:
 ![07-02-19_COI_Tree4]({{ site.baseurl }}/images/07-02-19_COI_Tree4.png "7/2/19 COI tree")
 
 Circular:
