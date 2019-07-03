@@ -27,24 +27,24 @@ This produced the following code
 
 the names were then adjusted using the following codes
 
-MK153456.1 Eunicea succinea
-MK153476.1 Eunicea flexuosa
-MK153442.1 Eunicea flexuosa
-MK153329.1 Eunicea flexuosa
-MK153303.1 Eunicea flexuosa
-MK153374.1 Eunicea flexuosa
-MK153441.1 Eunicea laxispica
-MK153417.1 Eunicea tourneforti
-MK153414.1 Eunicea tourneforti 
-MK153408.1 Eunicea tourneforti 
-MK153376.1 Eunicea tourneforti
-MK153406.1 Eunicea fusca 
-MK153362.1 Eunicea fusca
-MK153308.1 Eunicea fusca
-MK153384.1 Eunicea clavigera 
-MK153378.1 Eunicea calyculata
-MK153334.1 Eunicea calyculata 
-MK153432.1 Eunicea calyculata
+|MK153456.1| Eunicea succinea |
+|MK153476.1| Eunicea flexuosa | 
+|MK153442.1| Eunicea flexuosa |
+|MK153329.1| Eunicea flexuosa |
+|MK153303.1| Eunicea flexuosa |
+|MK153374.1| Eunicea flexuosa |
+|MK153441.1| Eunicea laxispica | 
+|MK153417.1| Eunicea tourneforti |
+|MK153414.1| Eunicea tourneforti |
+|MK153408.1| Eunicea tourneforti |
+|MK153376.1| Eunicea tourneforti |
+|MK153406.1| Eunicea fusca |
+|MK153362.1| Eunicea fusca |
+|MK153308.1| Eunicea fusca |
+|MK153384.1| Eunicea clavigera |
+|MK153378.1| Eunicea calyculata |
+|MK153334.1| Eunicea calyculata |
+|MK153432.1| Eunicea calyculata |
  
 
 finally using the site ITOL <https://itol.embl.de> a tree was made:
