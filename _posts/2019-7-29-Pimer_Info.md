@@ -3,7 +3,7 @@ layout: post
 title: "Primer information"
 ---
 
-##This is a sheet of info for all of the primers I have used 
+## This is a sheet of info for all of the primers I have used 
 
 
 ### B7sym15
