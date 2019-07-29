@@ -8,12 +8,28 @@ title: "Primer information"
 
 ### B7sym15
 
-|Name| B7Sym15(forward)|
+|Name | B7Sym15(forward)|
+|Sequence | CTCACCTTGAAATCAGTAGCCA |
+|Annealing Temp | 59 |
+|Genome | Nuclear |
+|Reference | Pettay DT, LaJeunesse TC (2007) Microsatellites from clade B Symbiodinium spp. specialized for Caribbean corals in the genus Madracis. Mol Ecol Notes 7:1271–1274 |
+
+|Name| B7Sym15(reverse)
 |Sequence| CTCACCTTGAAATCAGTAGCCA |
 |Annealing Temp| 59 |
 |Genome| Nuclear |
 |Reference| Pettay DT, LaJeunesse TC (2007) Microsatellites from clade B Symbiodinium spp. specialized for Caribbean corals in the genus Madracis. Mol Ecol Notes 7:1271–1274|
---------------------
+
+
+
+### B7sym15
+
+|Name | B7Sym15(forward)|
+|Sequence | CTCACCTTGAAATCAGTAGCCA |
+|Annealing Temp | 59 |
+|Genome | Nuclear |
+|Reference | Pettay DT, LaJeunesse TC (2007) Microsatellites from clade B Symbiodinium spp. specialized for Caribbean corals in the genus Madracis. Mol Ecol Notes 7:1271–1274 |
+
 |Name| B7Sym15(reverse)
 |Sequence| CTCACCTTGAAATCAGTAGCCA |
 |Annealing Temp| 59 |
