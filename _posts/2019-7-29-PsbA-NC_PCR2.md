@@ -26,6 +26,8 @@ and a Master Mix of water, 2x mytaq mix, 1,788F Primer (concentration: 10 microm
 |2,218R Primer (concentration: 10 micromolar)| 7.35 micoleters|
 |BAS (Borine Serum Albumin)| 1 microliter|
 
+
+
 |Component| Volume for 14 reactions(+5% error)|
 |---------|---------------------------|
 |Water| 66.15 micoleters|
