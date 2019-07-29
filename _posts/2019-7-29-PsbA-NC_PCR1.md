@@ -20,8 +20,8 @@ First A Master Mix of water, 2x mytaq mix, 1,788F Primer (concentration: 10 micr
 |---------|---------------------------|
 |Water| 132.3 micoleters|
 |mytaq mix| 183.75 micoleters|
-|PsbA-NCF Primer (concentration: 10 micromolar)| 14.7 micoleters|
-|PsbA-NCR Primer (concentration: 10 micromolar)| 14.7 micoleters|
+|1,788F (concentration: 10 micromolar)| 14.7 micoleters|
+|2,455R (concentration: 10 micromolar)| 14.7 micoleters|
 |BAS (Borine Serum Albumin)| 1 microliter|
 
 24 micoleters of this master mix was added to 14 tubes 
