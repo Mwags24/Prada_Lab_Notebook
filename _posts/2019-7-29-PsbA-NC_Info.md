@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primer information"
+title: "PsbA-NC information"
 ---
 
 ## PsbA-NonCoding
