@@ -51,7 +51,7 @@ categories: info
 |**Annealing Temp** || 56 |
 |**Genome** || Nuclear |
 |**Reference** || Santos, S.R., Guiterrez-Rodriguez, C., Lasker, H.R., Coffroth, M.A., 2003.|
-|**Aprox. length** || has not worked yet |
+|**Aprox. length** || 100-200 |
 
 
 ### cp23S-rDNA (24F)
