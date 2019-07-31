@@ -47,8 +47,7 @@ categories: PsbA-NC info
 |**E35**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
 |**E36**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
 |**E37**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E38**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E39**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
+|**E40**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
 |**E41**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
 |**E42**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
 |**E43**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
