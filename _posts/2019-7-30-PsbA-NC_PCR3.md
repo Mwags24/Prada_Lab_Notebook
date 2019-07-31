@@ -15,8 +15,6 @@ Samples E1 E2 E3 E4 E5 E6 E7 were used in this PCR (polimerase chain reaction) r
 
 Two master mixes were made
 A Master Mix of water, 2x mytaq mix, 1,788F Primer (concentration: 10 micromolar), 2,218R Primer (concentration: 10 micromolar)
-and a Master Mix of water, 2x mytaq mix, 1,788F Primer (concentration: 10 micromolar), 2,282R Primer (concentration: 10 micromolar)
-
 
 |Component| Volume for 14 reactions(+5% error)|
 |---------|---------------------------|
