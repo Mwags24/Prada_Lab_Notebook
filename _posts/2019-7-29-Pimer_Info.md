@@ -116,7 +116,7 @@ categories: info
 |**Reference** || Grajales A, Aguilar C, Sanchez J (2007) |
 |**Aprox. length** || 200-350bp |
 
-### PsbA-Coding
+### PsbA-Coding (IA2)
 
 |**Name** || IA2F|
 |**Sequence** || GGATGGGTAGAGAATGGGAATTCAG |
