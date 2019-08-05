@@ -101,7 +101,7 @@ categories: info
 |**Aprox. length** || 300-450bp |
 
 
-### ITS2_Coral
+### ITS2_Coral (28S)
 
 |**Name** || 5.8S-436|
 |**Sequence** || AGCATGTCTGTCTGAGTGTTGG|
