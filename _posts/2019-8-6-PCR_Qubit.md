@@ -10,7 +10,7 @@ tags: E1 E2 E3 E4 E5 P1 P2 P3 P4 P5
 ### Procedure
 
 8119.2 microleters of buffer and 40.8 microleters of quant-it reagent were mixed into a master mixed
-for 40 reactions (should have been 42)
+for 40 reactions (should have been 42) + a 2% error 
 
 190 microleters of the master mix was mixed with 10 microleters of standard 1 and standard 2
 199 microleters of the master mix was mixed with 1 microleter of each post-PCR DNA sample 
@@ -34,6 +34,14 @@ The nanograms of DNA per microleter was determinded
 |Standard 2|17385.21 ng/μl|
 
 **All of these are in ng/μl**
+
+For 24F E1-5 was taken from the [7-15-19]({{ site.baseurl }}{% post_url 2019-7-15-24F_PCR1 %}) tube. P1-5 was taken from the [7-16-19]({{ site.baseurl }}{% post_url 2019-7-16-24F_PCR5 %}) tube
+
+For 28S E1-5 was taken from the [7-17-19]({{ site.baseurl }}{% post_url 2019-7-17-28S_PCR1 %}) tube. P1-5 was taken from the [7-22-19]({{ site.baseurl }}{% post_url 2019-7-22-28S_PCR5 %})
+
+For IA2 E1-5 was taken from [7-23-19]({{ site.baseurl }}{% post_url 2019-7-23-IA2_PCR1 %}). P1 and P3-5 was taken from [7-24-19]({{ site.baseurl }}{% post_url 2019-7-24-IA2_PCR5 %}) P2 was from [7-29-19]({{ site.baseurl }}{% post_url 2019-7-29-IA2_PCR6 %}).
+
+For ITS1 E1 E2 E3 and E5 was taken from [6-18-19]({{ site.baseurl }}{% post_url 2019-6-18-ITS1_PCR1 %}) and E4 was taken from [6-19-19]({{ site.baseurl }}{% post_url 2019-6-19-ITS1_PCR6 %}). P1-5 was taken from [6-19-19]({{ site.baseurl }}{% post_url 2019-6-19-ITS1_PCR5 %}).
 
 ### Notes
 
