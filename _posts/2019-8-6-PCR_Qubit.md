@@ -19,7 +19,7 @@ The samples were run through the Qubit on the dsDNA - Broad Range setting.
 The nanograms of DNA per microleter was determinded 
 
 |Sample|24F #1|24F #2|28S #1|28S #2|IA2 #1|IA2 #2|ITS1 #1|ITS1 #2| 
-|----|----|-----|---|---|---|---|---|---|
+|--|-------|--------|--------|--------|--------|--------|--------|--------|
 |E1|45.8 ng/μl|43.0 ng/μl|86.0 ng/μl|83.0 ng/μl|94.0 ng/μl|91.0 ng/μl|31.6 ng/μl|31.0 ng/μl|
 |E2|49.2 ng/μl|48.4 ng/μl|86.0 ng/μl|85.2 ng/μl|105 ng/μl|101ng/μl|30.2 ng/μl|29.6 ng/μl|
 |E3|53.2 ng/μl|52.6 ng/μl|80.8 ng/μl|78.8 ng/μl|104 ng/μl|103 ng/μl|21.4 ng/μl|21.0 ng/μl|
