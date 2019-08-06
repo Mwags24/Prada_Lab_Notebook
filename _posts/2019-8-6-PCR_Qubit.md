@@ -13,7 +13,7 @@ tags: E1 E2 E3 E4 E5 P1 P2 P3 P4 P5
 for 40 reactions (should have been 42)
 
 190 microleters of the master mix was mixed with 10 microleters of standard 1 and standard 2
-199 microleters of the master mix was mixed with 1 microleter of each DNA sample 
+199 microleters of the master mix was mixed with 1 microleter of each post-PCR DNA sample 
 
 The samples were run through the Qubit on the dsDNA - Broad Range setting.
 The nanograms of DNA per microleter was determinded 
@@ -30,8 +30,8 @@ The nanograms of DNA per microleter was determinded
 |P3|39.6 |39.4 |45.0 |44.4 |13.2 |13.0 |10.2 |10.1 |
 |P4|45.0 |44.8 |48.0 |47.0 |17.8 |17.5 |X|X|
 |P5|46.2 |46.0 |8.44 |8.20 |9.62 |9.46 |X|X|
-|Standard 1|165.88 |
-|Standard 2|17385.21 |
+|Standard 1|165.88 ng/μl|
+|Standard 2|17385.21 ng/μl|
 
 **All of these are in ng/μl**
 
@@ -41,3 +41,4 @@ The nanograms of DNA per microleter was determinded
 
 * P5 for 28S was weak in the PCR and came out as ~8.3  
 
+This Data will be used to create aloquates to send to be sequenced.
