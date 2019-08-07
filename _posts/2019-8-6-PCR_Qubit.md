@@ -28,8 +28,8 @@ The nanograms of DNA per microleter was determinded
 |**P1**|39.2 ng/μl|38.8 |45.2 |44.0 |19.0 |18.6 |27.0 |26.6 |
 |**P2**|18.2 ng/μl|18.0 |26.2 |25.8 |12.9 |12.7 |14.7 |14.5 |
 |**P3**|39.6 ng/μl|39.4 |45.0 |44.4 |13.2 |13.0 |10.2 |10.1 |
-|**P4**|45.0 ng/μl|44.8 |48.0 |47.0 |17.8 |17.5 |X|X|
-|**P5**|46.2 ng/μl|46.0 |8.44 |8.20 |9.62 |9.46 |X|X|
+|**P4**|45.0 ng/μl|44.8 |48.0 |47.0 |17.8 |17.5 |24.4|24.0|
+|**P5**|46.2 ng/μl|46.0 |8.44 |8.20 |9.62 |9.46 |20.8|20.4|
 |**Standard 1**|165.88 ng/μl|
 |**Standard 2**|17385.21 ng/μl|
 
@@ -46,8 +46,6 @@ For ITS1 **E1 E2 E3 and E5** was taken from [6-18-19]({{ site.baseurl }}{% post_
 **P1-5** was taken from [6-19-19]({{ site.baseurl }}{% post_url 2019-6-19-ITS1_PCR5 %}).
 
 ### Notes
-
-* X = ran out of Mastermix for P4 and P5 for ITS1
 
 * P5 for 28S was weak in the PCR and came out as ~8.3  
 
