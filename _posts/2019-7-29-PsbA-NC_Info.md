@@ -13,8 +13,11 @@ This primer has not worked yet
 It has been tried multiple times, checking different factors to see what could be causing the problem.
 
 [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR1 %}) (first try with E1-14 with the wrong Reverse primer)
+
 [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) (figuring out which primer works best using E1-7)
+
 [7/30/19]({{ site.baseurl }}{% post_url 2019-7-30-PsbA-NC_PCR3 %}) (changing the number of cycles and annealing temperature)
+
 [7/31/19]({{ site.baseurl }}{% post_url 2019-7-31-PsbA-NC_PCR4 %}) (trying an even higher annealing temperature)
 
 |sample||succsess|| post |
