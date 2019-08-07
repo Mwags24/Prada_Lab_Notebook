@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Preparing samples for sequencing 8/7/19"
-categories: Sequencing
+categories: Sequencing info
 tags: E1 E2 E3 E4 E5 P1 P2 P3 P4 P5 
 ---
 
@@ -43,3 +43,7 @@ For ITS1 **E1 E2 E3 and E5** was taken from [6-18-19]({{ site.baseurl }}{% post_
 **P1-5** was taken from [6-19-19]({{ site.baseurl }}{% post_url 2019-6-19-ITS1_PCR5 %}).
 
 ### Notes
+
+These tubes were placed in the -20°C (post PCR) freezer in a box titled "samples ready for sequencing"
+
+* More primers can be added to these tubes before sequencing them.
