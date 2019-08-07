@@ -9,72 +9,80 @@ categories: PsbA-NC info
 [Primer info]({{ site.baseurl }}{% post_url 2019-7-29-Pimer_Info %})
 
 
+This primer has not worked yet
+It has been tried multiple times, checking different factors to see what could be causing the problem.
+
+[7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR1 %}) (first try with E1-14 with the wrong Reverse primer)
+[7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) (figuring out which primer works best using E1-7)
+[7/30/19]({{ site.baseurl }}{% post_url 2019-7-30-PsbA-NC_PCR3 %}) (changing the number of cycles and annealing temperature)
+[7/31/19]({{ site.baseurl }}{% post_url 2019-7-31-PsbA-NC_PCR4 %}) (trying an even higher annealing temperature)
+
 |sample||succsess|| post |
-|**E1**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E2**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E2**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E4**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E5**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E6**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E7**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E8**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E9**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E10**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E11**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E12**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E13**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E14**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E15**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E16**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E17**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E18**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E19**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E20**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E21**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E22**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E23**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E24**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E25**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E26**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E27**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E28**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E29**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E30**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E31**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E32**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E33**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E34**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E35**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E36**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E37**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E40**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E41**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E42**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E43**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E44**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E45**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E46**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E47**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E48**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E49**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E50**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E51**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E52**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E53**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**E54**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P1**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P2**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P3**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P4**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P5**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P6**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P7**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P8**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P9**| | done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P10**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P11**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P12**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P13**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P14**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P15**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
-|**P16**|| done || [7/29/19]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_PCR2 %}) |
+|**E1**| | double banded || [7/31/19]({{ site.baseurl }}{% post_url 2019-7-31-PsbA-NC_PCR4 %}) |
+|**E2**| | double banded || [7/31/19]({{ site.baseurl }}{% post_url 2019-7-31-PsbA-NC_PCR4 %}) |
+|**E2**| | double banded || [7/31/19]({{ site.baseurl }}{% post_url 2019-7-31-PsbA-NC_PCR4 %}) |
+|**E4**| | double banded || [7/31/19]({{ site.baseurl }}{% post_url 2019-7-31-PsbA-NC_PCR4 %}) |
+|**E5**| | double banded || [7/31/19]({{ site.baseurl }}{% post_url 2019-7-31-PsbA-NC_PCR4 %}) |
+|**E6**| | double banded || [7/31/19]({{ site.baseurl }}{% post_url 2019-7-31-PsbA-NC_PCR4 %}) |
+|**E7**| | double banded || [7/31/19]({{ site.baseurl }}{% post_url 2019-7-31-PsbA-NC_PCR4 %}) |
+|**E8**| | not done ||  |
+|**E9**| | not done ||  |
+|**E10**|| not done ||  |
+|**E11**|| not done ||  |
+|**E12**|| not done ||  |
+|**E13**|| not done ||  |
+|**E14**|| not done ||  |
+|**E15**|| not done ||  |
+|**E16**|| not done ||  |
+|**E17**|| not done ||  |
+|**E18**|| not done ||  |
+|**E19**|| not done ||  |
+|**E20**|| not done ||  |
+|**E21**|| not done ||  |
+|**E22**|| not done ||  |
+|**E23**|| not done ||  |
+|**E24**|| not done ||  |
+|**E25**|| not done ||  |
+|**E26**|| not done ||  |
+|**E27**|| not done ||  |
+|**E28**|| not done ||  |
+|**E29**|| not done ||  |
+|**E30**|| not done ||  |
+|**E31**|| not done ||  |
+|**E32**|| not done ||  |
+|**E33**|| not done ||  |
+|**E34**|| not done ||  |
+|**E35**|| not done ||  |
+|**E36**|| not done ||  |
+|**E37**|| not done ||  |
+|**E40**|| not done ||  |
+|**E41**|| not done ||  |
+|**E42**|| not done ||  |
+|**E43**|| not done ||  |
+|**E44**|| not done ||  |
+|**E45**|| not done ||  |
+|**E46**|| not done ||  |
+|**E47**|| not done ||  |
+|**E48**|| not done ||  |
+|**E49**|| not done ||  |
+|**E50**|| not done ||  |
+|**E51**|| not done ||  |
+|**E52**|| not done ||  |
+|**E53**|| not done ||  |
+|**E54**|| not done ||  |
+|**P1**| | not done ||  |
+|**P2**| | not done ||  |
+|**P3**| | not done ||  |
+|**P4**| | not done ||  |
+|**P5**| | not done ||  |
+|**P6**| | not done ||  |
+|**P7**| | not done ||  |
+|**P8**| | not done ||  |
+|**P9**| | not done ||  |
+|**P10**|| not done ||  |
+|**P11**|| not done ||  |
+|**P12**|| not done ||  |
+|**P13**|| not done ||  |
+|**P14**|| not done ||  |
+|**P15**|| not done ||  |
+|**P16**|| not done ||  |
