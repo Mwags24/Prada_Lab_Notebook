@@ -36,12 +36,14 @@ A temperature gradient was set up to try to determine a temperature where PsbA-N
 
 |Step|Temperature|Duration|cycles|
 |----|-------|--------|-------|
-|1|92°C|3:00|1|
-|2|92°C|0:30|**30**|
-|3|**Gradient**|1:00|**30**|
-|4|72°C|0:15|**30**|
-|5|72°C|2:00|1|
-|6|4°C|hold|-|
+|1|94°C|2:00|1|
+|2|**Gradient**|1:30|1|
+|3|72°C|2:00|1|
+|4|94°C|0:45|36|
+|5|**Gradient**|1:00|36|
+|6|72°C|1:30|36|
+|7|72°C|2:00|1|
+|8|4°C|hold|-|
 
 ___________
 
