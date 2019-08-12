@@ -80,6 +80,7 @@ The voltage was set to 100V and run for 60 minutes
 This is the resulting Gel
 
 ![08-12-19_PsbA-NC_Gel1]({{ site.baseurl }}/images/08-12-19_PsbA-NC_Gel1.png "8/12/19 PsbA-NC Gel #1")
+![08-12-19_PsbA-NC_Gel2]({{ site.baseurl }}/images/08-12-19_PsbA-NC_Gel2.png "8/12/19 PsbA-NC Gel #2")
 
 
 ### Notes
