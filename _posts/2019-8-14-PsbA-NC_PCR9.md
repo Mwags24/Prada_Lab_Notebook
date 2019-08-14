@@ -17,6 +17,7 @@ Two master mixes were made
 A Master Mix of water, 2x mytaq mix, 1,788F Primer (concentration: 10 micromolar), 2,218R Primer (concentration: 10 micromolar)
 
 This Master Mix x4.5
+
 |Component| Volume for 14 reactions(+5% error)|
 |---------|---------------------------|
 |Water| 132.3 micoleters|
