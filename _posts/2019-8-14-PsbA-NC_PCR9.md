@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PsbA-NC PCR #8 8/14/19"
+title: "PsbA-NC PCR #9 8/14/19"
 categories: PsbA-NC PCR
 tags: E41 E42 E43 E44 E45 E46 E47 E48 E49 E50 E51 E52 E53 P15
 ---
@@ -72,7 +72,7 @@ then the DNA samples were each added to the wells in the following order
 The voltage was set to 100V and run for 60 minutes
 
 
-This is the resulting Gel
+The Gels have not been run yet for this PCR
 
 ![08-14-19_PsbA-NC_Gel5]({{ site.baseurl }}/images/08-14-19_PsbA-NC_Gel5.png "8/14/19 PsbA-NC Gel #5")
 

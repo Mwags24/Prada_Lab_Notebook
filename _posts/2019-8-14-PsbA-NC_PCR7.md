@@ -72,7 +72,7 @@ then the DNA samples were each added to the wells in the following order
 The voltage was set to 100V and run for 60 minutes
 
 
-This is the resulting Gel
+The Gels have not been run yet for this PCR
 
 ![08-14-19_PsbA-NC_Gel1]({{ site.baseurl }}/images/08-14-19_PsbA-NC_Gel1.png "8/14/19 PsbA-NC Gel #1")
 
