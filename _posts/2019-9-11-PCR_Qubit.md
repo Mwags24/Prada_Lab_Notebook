@@ -40,10 +40,16 @@ For ITS2 **E1 and E5** was taken from the [2-1-19]({{ site.baseurl }}{% post_url
 **P1 P3 and P4** was taken from the [5-20-19]({{ site.baseurl }}{% post_url 2019-5-20-ITS2_PCR15 %}) tube
 **P2 and P5** was taken from the [5-21-19]({{ site.baseurl }}{% post_url 2019-5-21-ITS2_PCR16 %})
 
-For 23S1M13 **E1-3 and E5** was taken from the [6-24-19]({{ site.baseurl }}{% post_url 2019-6-24-23S1M13_PCR2 %}) tube. **E4** (which had not orked before was taken from the [7-1-19]({{ site.baseurl }}{% post_url 2019-7-17-23S1M13_PCR10 %}) tube.  **P1 P4 and P5** was taken from the [6-25-19]({{ site.baseurl }}{% post_url 2019-6-25-23S1M13_PCR6 %}) and **P2 and P3** was taken from the [7-1-19]({{ site.baseurl }}{% post_url 2019-7-1-23S1M13_PCR10 %})
+For 23S1M13 **E1-3 and E5** was taken from the [6-24-19]({{ site.baseurl }}{% post_url 2019-6-24-23S1M13_PCR2 %}) tube.
+ **E4** (which had not orked before was taken from the [7-1-19]({{ site.baseurl }}{% post_url 2019-7-17-23S1M13_PCR10 %}) tube.  
+ **P1 P4 and P5** was taken from the [6-25-19]({{ site.baseurl }}{% post_url 2019-6-25-23S1M13_PCR6 %}) and 
+ **P2 and P3** was taken from the [7-1-19]({{ site.baseurl }}{% post_url 2019-7-1-23S1M13_PCR10 %})
 
-For B7Sym15 **E1 E3 and E5** was taken from [6-10-19]({{ site.baseurl }}{% post_url 2019-6-10-B7Sym15_PCR16 %})**E4** was taken from [6-10-19]({{ site.baseurl }}{% post_url 2019-6-10-B7Sym15_PCR17 %}) and **E2** was taken from [6-4-19]({{ site.baseurl }}{% post_url 2019-6-19-B7Sym15_PCR11 %}). 
-**P1 and P3-5** was taken from [6-5-19]({{ site.baseurl }}{% post_url 2019-6-5-B7Sym15_PCR15 %}) **P2** was taken from [6-17-19]({{ site.baseurl }}{% post_url 2019-6-17-B7Sym15_PCR19 %}).
+For B7Sym15 **E1 E3 and E5** was taken from [6-10-19]({{ site.baseurl }}{% post_url 2019-6-10-B7Sym15_PCR16 %})
+**E4** was taken from [6-10-19]({{ site.baseurl }}{% post_url 2019-6-10-B7Sym15_PCR17 %}) 
+and **E2** was taken from [6-4-19]({{ site.baseurl }}{% post_url 2019-6-19-B7Sym15_PCR11 %}). 
+**P1 and P3-5** was taken from [6-5-19]({{ site.baseurl }}{% post_url 2019-6-5-B7Sym15_PCR15 %}) 
+**P2** was taken from [6-17-19]({{ site.baseurl }}{% post_url 2019-6-17-B7Sym15_PCR19 %}).
 
 ### Notes
 
