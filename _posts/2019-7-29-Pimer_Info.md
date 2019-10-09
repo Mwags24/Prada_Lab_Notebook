@@ -23,6 +23,8 @@ categories: info
 |**Reference** || Pettay DT, LaJeunesse TC (2007) |
 |**Aprox. length** || 300-400bp |
 
+[more info]({{ site.baseurl }}{% post_url 2019-6-17-B7Sym15_info %})
+
 ### CA4
 
 |**Name** || CA4.86R|
@@ -38,6 +40,8 @@ categories: info
 |**Reference** || Santos SR, Shearer TL, Hannes AR, Coffroth MA (2004) |
 |**Aprox. length** || 200-350bp |
 
+[more info]({{ site.baseurl }}{% post_url 2019-7-8-CA4_info %})
+
 ### CA6
 
 |**Name** || CA6.38R|
@@ -52,6 +56,8 @@ categories: info
 |**Genome** || Nuclear |
 |**Reference** || Santos, S.R., Guiterrez-Rodriguez, C., Lasker, H.R., Coffroth, M.A., 2003.|
 |**Aprox. length** || 100-200 |
+
+[more info]({{ site.baseurl }}{% post_url 2019-8-5-CA6_info %})
 
 
 ### cp23S-rDNA (24F)
@@ -69,6 +75,8 @@ categories: info
 |**Reference** || New Primer |
 |**Aprox. length** || 300-450bp |
 
+[more info]({{ site.baseurl }}{% post_url 2019-7-16-24F_info %})
+
 ### cp23S-rDNA (23S1M13)
 
 |**Name** || 23S1M13 |
@@ -84,6 +92,7 @@ categories: info
 |**Reference** || Harris, E.H., Boyton, I.E., Gillham, N.W., 1994. |
 |**Aprox. length** || 800-1200bp |
 
+[more info]({{ site.baseurl }}{% post_url 2019-7-1-23S1M13_info %})
 
 ### ITS2
 
@@ -100,6 +109,7 @@ categories: info
 |**Reference** || LaJeunesse TC, Trench RK (2000) |
 |**Aprox. length** || 300-450bp |
 
+[more info]({{ site.baseurl }}{% post_url 2019-6-17-B7Sym15_info %})
 
 ### ITS2_Coral (28S)
 
@@ -116,6 +126,8 @@ categories: info
 |**Reference** || Grajales A, Aguilar C, Sanchez J (2007) |
 |**Aprox. length** || 200-350bp |
 
+[more info]({{ site.baseurl }}{% post_url 2019-7-22-28S_info %})
+
 ### PsbA-Coding (IA2)
 
 |**Name** || IA2F|
@@ -130,6 +142,8 @@ categories: info
 |**Genome** || Plastid |
 |**Reference** || Barbrook AC, Visram S, Douglas AE, Howe CJ (2006) |
 |**Aprox. length** || 400-700bp |
+
+[more info]({{ site.baseurl }}{% post_url 2019-7-29-IA2_info %})
 
 ### PsbA-NonCoding
 
@@ -158,6 +172,8 @@ categories: info
 |**Reference** || New Primer |
 |**Aprox. length** || 200-600bp? |
 
+[more info]({{ site.baseurl }}{% post_url 2019-7-29-PsbA-NC_Info %})
+
 ### ITS1
 
 |**Name** || ITS1|
@@ -172,3 +188,5 @@ categories: info
 |**Genome** || Plastid |
 |**Reference** || LaJeunesse T.C., Reyes-Bonilla H., Warner M.E., Wills M., Schmidt G.W. 2008. |
 |**Aprox. length** || 300-450bp |
+
+[more info]({{ site.baseurl }}{% post_url 2019-6-19-ITS1_info %})
